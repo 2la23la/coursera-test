@@ -1,0 +1,94 @@
+	*{
+			box-sizing: border-box;
+			margin: 0;
+			padding: 0;
+		}
+		h1 {
+			text-align : center ;
+		}
+		.row {
+	width:100%;
+       }
+
+
+
+		#box1{
+			background-color: #658709 ;
+			padding: 0px 0px 10px 10px ;
+			border: 1px solid black ;
+			
+			margin top: 40px ;
+			margin: 5px;
+			float: left;
+		
+	
+
+			
+		}
+		.title1
+		{
+			background-color: #875747;
+			float: right;
+			width:95px;
+			padding: 3px;
+			border: 1px solid black;
+
+		}
+		#box2{
+			background-color: #087492;
+			padding: 0px 0px 10px 10px ;
+			border: 1px solid black ;
+			
+			margin top: 20px ;
+			margin: 5px;
+			float: left;
+		
+			
+			
+		}
+		.title2{
+			background-color: #875747;
+			float: right;
+			width:95px;
+			padding: 3px;
+			border: 1px solid black;
+	
+
+		}
+		#box3{
+			background-color: #087492;
+			padding: 0px 0px 10px 10px ;
+			border: 1px solid black ;
+			
+			margin top: 20px ;
+			margin: 5px;
+			float: left;
+
+		}
+		.title3{
+			background-color: #875747;
+		float :right;
+			width:95px;
+			padding: 3px;
+			border: 1px solid black;
+		}
+		#content1 , #content2 , #content3
+		{
+			float :left;
+			clear :right;
+		}
+@media (min-width: 992px)
+{
+.col-lg-4{
+	width:32.3%;
+}
+
+}
+ 
+@media (min-width: 768px) and (max-width: 991)
+{
+	.col-md-6{
+		width:48.5%;
+	}
+
+}
