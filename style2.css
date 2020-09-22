@@ -1,0 +1,41 @@
+ 
+      body{
+      	background-color: #098765;
+      }
+      #header-nav{
+        background-color: #9d0000;
+        border-radius: 0;
+        border:0;
+      }
+      .navbar div {
+      	float:  left;
+      }
+      .navbar .header div{
+      	float: left;
+      }
+     h1 #brand-name
+      {
+      	text-align: left;
+
+      }
+       div .navbar-brand h1{
+      	float: left;
+      }
+      #nav-list{
+      	margin-top: 20px;
+      	margin:5px;
+      }
+      #nav-list a{
+      	color: #987565;
+      	text-align: center;
+      }
+      #nav-list a:hover {
+
+      }
+      #box{
+      	background-color: #9d3020;
+      	height: 1000px;
+      	margin-top: 10px;
+      	padding: 20px 20px 20px 20px;
+      	font-size:1.5em;
+      }
