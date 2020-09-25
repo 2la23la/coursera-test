@@ -1,0 +1,35 @@
+ 
+      
+      #header-nav{
+        background-color: #9d0000;
+        border-radius: 0;
+        border:0;
+      }
+      
+     
+     h1 #brand-name
+      {
+      	text-align: left;
+
+      }
+      
+
+       div .navbar-brand h1{
+      	float: left;
+      }
+      #nav-list{
+      	margin-top: 20px;
+      	margin:5px;
+      }
+      #nav-list a{
+      	color: #987565;
+      	text-align: center;
+      }
+      
+      #box{
+      	background-color: #9d3020;
+      	height: 1000px;
+      	margin-top: 10px;
+      	padding: 20px 20px 20px 20px;
+      	font-size:1.5em;
+      }
